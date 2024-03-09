@@ -1,9 +1,3 @@
-# Asrar Abdelgaber OSman Marae - 20230783
-# Lina Mahmoud Ahmed Omer      - 20230780
-# Osama Mohammed Bay           - 20230740
-
-
-
 #A Function to convert from binary to decimal
 def bin_to_dec(binary):
     decimal = 0
